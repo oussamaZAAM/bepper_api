@@ -8,7 +8,7 @@ from polls.food import snackData
 import random
 
 
-@api_view(['GET'])
+@api_view(['POST'])
 def meal_planner(request):
 
     # Define the calorie range for each meal
