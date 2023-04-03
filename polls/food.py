@@ -11,17 +11,17 @@ breakfastData = [
     {"name": "Smoothie Bowl (with fruit and granola)", "calories": 400, "url": "https://i.ibb.co/T4nTFD1/k-archive-2a28d8d3b128d1e3305998496b7bca4970993db7.jpg"},
     {"name": "Fruit Salad", "calories": 120, "url": "https://i.ibb.co/87vxzMc/2289556-0981629410f0446d9bec11f0a9ece43c.jpg"},
     {"name": "Bacon, Egg, and Cheese Sandwich", "calories": 500, "url": "https://i.ibb.co/QX6LVJn/bacon-egg-cheese-recipe-snippet.jpg"},
-    {"name": "Sausage and Biscuits", "calories": 600, "url": "},
-    {"name": "Hash Browns", "calories": 250, "url": "},
-    {"name": "Cereal (with milk)", "calories": 300, "url": "},
-    {"name": "Muffin (blueberry)", "calories": 400, "url": "},
-    {"name": "Breakfast Quiche (with spinach and feta)", "calories": 350, "url": "},
-    {"name": "Breakfast Tacos (with scrambled eggs, chorizo, and salsa)", "calories": 400, "url": "},
-    {"name": "Huevos Rancheros", "calories": 450, "url": "},
-    {"name": "Croissant with Jam", "calories": 300, "url": "},
-    {"name": "Breakfast Sandwich (with turkey, egg, and cheese)", "calories": 400, "url": "},
-    {"name": "Frittata (with vegetables)", "calories": 250, "url": "},
-    {"name": "English Muffin with Peanut Butter and Banana", "calories": 350, "url": "}
+    {"name": "Sausage and Biscuits", "calories": 600, "url": "https://i.ibb.co/x5RJvff/large-cheddar-biscuits-smoked-sausage.jpg"},
+    {"name": "Hash Browns", "calories": 250, "url": "https://i.ibb.co/2KfkWd0/Hash-browns.webp"},
+    {"name": "Cereal (with milk)", "calories": 300, "url": "https://i.ibb.co/jhwbZ25/attachment-engin-akyurt-h-Gsq0a-OZM-w-unsplash.jpg"},
+    {"name": "Muffin (blueberry)", "calories": 400, "url": "https://i.ibb.co/NLzLQPB/blueberry-muffins-fb-ig-7-scaled.webp"},
+    {"name": "Breakfast Quiche (with spinach and feta)", "calories": 350, "url": "https://i.ibb.co/Km7NS2L/Easy-Crustless-Quiche-with-Spinach-and-Feta-9.jpg"},
+    {"name": "Breakfast Tacos (with scrambled eggs, chorizo, and salsa)", "calories": 400, "url": "https://i.ibb.co/nzypySc/bkfsttacos.webp"},
+    {"name": "Huevos Rancheros", "calories": 450, "url": "https://i.ibb.co/tpZXjBW/Huevos-Rancheros-06.jpg"},
+    {"name": "Croissant with Jam", "calories": 300, "url": "https://i.ibb.co/sHVh5rX/50448771982-6d6c6c8057-b.jpg"},
+    {"name": "Breakfast Sandwich (with turkey, egg, and cheese)", "calories": 400, "url": "https://i.ibb.co/PG0BGnV/image-recipe-monte-cristo-turkey-breakfast-sandwich.jpg"},
+    {"name": "Frittata (with vegetables)", "calories": 250, "url": "https://i.ibb.co/B6QPzpn/MR-Vegetable-Fritatta177.jpg"},
+    {"name": "English Muffin with Peanut Butter and Banana", "calories": 350, "url": "https://i.ibb.co/xGNCySw/5327207-d1469e8a7eb745b48c5b78abc4ce9ee4.jpg"}
 ]
 
 
