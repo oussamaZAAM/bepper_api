@@ -41,15 +41,15 @@ lunchData = [
     {"name": "Chicken Fajitas", "calories": 550, "url": "https://i.ibb.co/RD7VWMZ/chicken-fajitas-recipe-square.jpg"},
     {"name": "Beef Stir-Fry (with veggies)", "calories": 400, "url": "https://i.ibb.co/WcqGnDP/Beef-and-Vegetable-Stir-Fry-16.jpg"},
     {"name": "Mediterranean Salad (with feta and olives)", "calories": 350, "url": "https://i.ibb.co/4212XpZ/the-perfect-greek-salad-7.jpg"},
-    {"name": "Baked Potato (with broccoli and cheese)", "calories": 300, "url": "},
-    {"name": "Falafel Wrap", "calories": 450, "url": "},
-    {"name": "Vegetable Stir-Fry (with tofu)", "calories": 350, "url": "},
-    {"name": "Chicken and Broccoli Alfredo", "calories": 600, "url": "},
-    {"name": "Egg Salad Sandwich", "calories": 400, "url": "},
-    {"name": "Tuna Salad (with crackers)", "calories": 350, "url": "},
-    {"name": "Pizza (with veggies)", "calories": 500, "url": "},
-    {"name": "Shrimp and Vegetable Skewers", "calories": 400, "url": "},
-    {"name": "Grilled Cheese Sandwich (with tomato soup)", "calories": 600, "url": "}
+    {"name": "Baked Potato (with broccoli and cheese)", "calories": 300, "url": "https://i.ibb.co/5YyNScd/Baked-Potato-with-Cheese-Sauce-39.webp"},
+    {"name": "Falafel Wrap", "calories": 450, "url": "https://i.ibb.co/kBKzDD2/62708678.jpg"},
+    {"name": "Vegetable Stir-Fry (with tofu)", "calories": 350, "url": "https://i.ibb.co/BfMp3yz/Tofu-Stir-Fry-Thumbnail.jpg"},
+    {"name": "Chicken and Broccoli Alfredo", "calories": 600, "url": "https://i.ibb.co/K5W13Rq/Best-Chicken-Broccoli-Alfredo-Recipe-720x720.jpg"},
+    {"name": "Egg Salad Sandwich", "calories": 400, "url": "https://i.ibb.co/QYVGdV1/Classic-Egg-Salad-featurex.jpg"},
+    {"name": "Tuna Salad (with crackers)", "calories": 350, "url": "https://i.ibb.co/TgZjcmB/Tuna-Salad-Recipe-3.jpg"},
+    {"name": "Pizza (with veggies)", "calories": 500, "url": "https://i.ibb.co/3hSqXZC/veggie-pizza-featured-image-3.png"},
+    {"name": "Shrimp and Vegetable Skewers", "calories": 400, "url": "https://i.ibb.co/92CWFyT/Lemon-Garlic-Butter-Shrimp-1.jpg"},
+    {"name": "Grilled Cheese Sandwich (with tomato soup)", "calories": 600, "url": "https://i.ibb.co/pdtSwjk/Tomato-soup-with-grilled-cheese-5.jpg"}
 ]
 
 dinnerData = [
