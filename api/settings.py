@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'corsheaders'
 ]
 
-CORS_ALLOWED_ORIGINS = ['bepper-api.up.railway.app', 'https://bepper.cyclic.app']
+CORS_ALLOWED_ORIGINS = ['https://bepper-api.up.railway.app', 'https://bepper.cyclic.app']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
