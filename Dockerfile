@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.9
+FROM python:3.10.11-slim-buster
 
 # Set the working directory in the container
 WORKDIR /app
@@ -17,4 +17,4 @@ COPY . /app/
 EXPOSE 8000
 
 # Start the Django app server
-CMD ["python", "manage.py", "runserver"]
+CMD ["gunicorn", "api.wsgi"]

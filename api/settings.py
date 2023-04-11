@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i=hvwa06-fy-^u)=e%z0*#6t2-7!^cwvdq8&ue_$g-x*^p!pl!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://bepper-api.up.railway.app', 'bepper-api.up.railway.app']
+ALLOWED_HOSTS = ['bepper-api.up.railway.app', 'bepper-api-dstj.onrender.com', '127.0.0.1:8000']
 
 
 # Application definition
